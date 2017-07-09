@@ -25,17 +25,17 @@ Detect the location of keypoints on face images
 Requirements
 ------------
 numpy
-----
+
 cv2
----
+
 scipy
------
+
 pandas
-------
+
 scikit-learn
-------------
+
 stasm
------
+
 
 This is use in python 3.x Series
 
