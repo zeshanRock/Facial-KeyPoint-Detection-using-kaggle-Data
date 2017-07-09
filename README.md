@@ -1,10 +1,12 @@
 # Facial-KeyPoint-Detection-using-kaggle-Data
 ------------------------------------------------
 
-Download the Data there   
+Download the Data there 
+----------------------
 https://www.kaggle.com/c/facial-keypoints-detection
 
 Description:
+-----------
 The objective of this task is to predict keypoint positions on face images. This can be used as a building block in several applications, such as:
 
 tracking faces in images and video
@@ -23,16 +25,24 @@ Detect the location of keypoints on face images
 Requirements
 ------------
 numpy
+----
 cv2
+---
 scipy
+-----
 pandas
+------
 scikit-learn
+------------
 stasm
+-----
 
 This is use in python 3.x Series
 
 Python scripts:
 --------------
 Load_mean.py - Detect the location of keypoints on face images and train dataset and give accuracy 
+
 Load_sklearn.py - Detect the location of keypoints on face images and train dataset and give accuracy 
+
 Load_stasm.py - Detect the location of keypoints on face images and train dataset and give accuracy using stasm library 
