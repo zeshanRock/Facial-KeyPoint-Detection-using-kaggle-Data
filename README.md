@@ -43,6 +43,5 @@ Python scripts:
 --------------
 Load_mean.py - Detect the location of keypoints on face images and train dataset and give accuracy 
 
-Load_sklearn.py - Detect the location of keypoints on face images and train dataset and give accuracy 
 
 Load_stasm.py - Detect the location of keypoints on face images and train dataset and give accuracy using stasm library 
