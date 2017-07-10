@@ -41,7 +41,7 @@ This is use in python 3.x Series
 
 Python scripts:
 --------------
-Load_mean.py - Detect the location of keypoints on face images and train dataset and give accuracy 
+input_data.py - Load the Kaggle data files 
 
 
-Load_stasm.py - Detect the location of keypoints on face images and train dataset and give accuracy using stasm library 
+kfkd_cnn.py - Apply the convolution to train the dataset and give the accuracy. 
